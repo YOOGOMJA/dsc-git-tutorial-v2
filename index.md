@@ -8,3 +8,4 @@ Hello World!!!!
 - 4. 깃허브 혹은 외부 원격 저장소에 변경점을 업로드 합니다(git push origin master)
 
 아까 pull 하는 방법을 배웠습니다.
+내가 여기서 작업을하고 있다.
